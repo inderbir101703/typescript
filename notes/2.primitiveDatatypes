@@ -1,0 +1,8 @@
+bool numbder string null undefined
+new ones-->
+let penta: symbol=Symbol('star)
+let biggy: bigint=24n==> big int type for artibary large numbers
+
+instances
+modern js comes with set class 
+let set = new Set([1,2,3])==> will remove duplicates

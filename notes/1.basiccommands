@@ -1,0 +1,17 @@
+npx tsc --init --rootdir src --outdir lib
+npx tsc --watch 
+
+if changes are made in code it will recompile
+npx tsc - run typescript that comes bundled together
+init - yo intialize flags 
+rootdir ->  location of source code
+outdie--> ouput js code folder
+
+npm i @types/node  mo of declaration dependencies for node
+npm i @types/express -> depencies for express
+
+
+ts is configured with tsconfig.json file
+
+/ private osption in calles came in 2015 , so if i try to comppile class with private declared with # vairables, whle compiling to js it will the es is too old
+we can change the compiler taget in tsconfig.json file

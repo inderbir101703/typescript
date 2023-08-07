@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/inderbir101703/typescript/issues"
   },
-  "homepage": "https://github.com/inderbir101703/typescript#readme"
+  "homepage": "https://github.com/inderbir101703/typescript#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
 }
